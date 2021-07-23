@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <manifest>
 
-    <default fetch="https://github.com/EastWoodYang/" />
+    <default fetch="https://github.com/Andyload/" />
 
     <project origin="Gradle-Repo.git">
 
