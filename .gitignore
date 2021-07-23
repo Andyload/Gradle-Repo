@@ -34,4 +34,4 @@ captures/
 # Keystore files
 *.jks
 
-/repo.xml
+repo.xml
